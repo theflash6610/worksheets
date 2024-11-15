@@ -1,0 +1,6 @@
+ services:
+  - type: web
+    name: 3278hfuewi9r382um89u43t39403gx
+    env: node
+    plan: free
+    startCommand: npm install && node index.js
